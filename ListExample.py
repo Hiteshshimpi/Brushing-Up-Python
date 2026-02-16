@@ -14,5 +14,5 @@
 
 # and
 
-myList3 = [ele for ele in int(input())]
+myList3 = [int(ele) for ele in input().split()]
 print(myList3)
