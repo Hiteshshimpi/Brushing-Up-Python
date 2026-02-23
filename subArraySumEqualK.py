@@ -11,7 +11,7 @@ def subarraySum(nums, k):
             elif k==0:
                 count=1
             else:
-                sum = 0
+                sum = 1
 
     return count
 
