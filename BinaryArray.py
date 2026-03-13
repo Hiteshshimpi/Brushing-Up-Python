@@ -1,3 +1,4 @@
+# Binary digit array of finding the 1 occurance of 1s in continuous go
 nums=[1, 1, 1, 1, 1, 1,0,1,1]
 count=0
 maxCount=0
