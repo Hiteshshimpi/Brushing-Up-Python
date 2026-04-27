@@ -4,7 +4,7 @@ print(grid)
 
 print(grid[0][1])
 
-# input the 2D matrix using list comprehension
+# input the 2D matrix using list comprehension and testing
 
 
 n =int(input()) # row
