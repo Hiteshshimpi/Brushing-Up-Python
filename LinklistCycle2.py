@@ -61,6 +61,8 @@ def linked_list_with_cycle(ll):
             slow = slow.next
             fast = fast.next.next
 
+    print("No cycle detected")
+
 
 # Create linked list: 3 -> 2 -> 0 -> -4 -> (back to node at index 1)
 ll = LinkedList()
