@@ -19,4 +19,4 @@ while fast and fast.next:
     slow = slow.next
     fast = fast.next.next
 
-print(slow.val)  # Output: 3
+print(slow.val)  # Output: 4
